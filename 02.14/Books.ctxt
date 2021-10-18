@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Books
+comment1.params=newBookTitle
+comment1.target=void\ setBookTitle(java.lang.String)
+comment2.params=newAuthor
+comment2.target=void\ setAuthor(java.lang.String)
+comment3.params=newNumberOfPages
+comment3.target=void\ setNumberOfPages(int)
+comment4.params=newPublisherName
+comment4.target=void\ setPublisherName(java.lang.String)
+numComments=5

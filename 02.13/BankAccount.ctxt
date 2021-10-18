@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment1.params=newAccountNumber
+comment1.target=void\ setaccountNumber(java.lang.String)
+comment2.params=newAccountHolderName
+comment2.target=void\ setaccountHolderName(java.lang.String)
+comment3.params=newAccountHolderSurname
+comment3.target=void\ setaccountHolderSurname(java.lang.String)
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Smartphone
+comment1.params=newModel
+comment1.target=void\ setphoneModel(java.lang.String)
+comment2.params=newColor
+comment2.target=void\ setphoneColor(java.lang.String)
+comment3.params=newCreator
+comment3.target=void\ setphoneCreator(java.lang.String)
+numComments=4
